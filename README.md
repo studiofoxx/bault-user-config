@@ -2,6 +2,9 @@
 
 ## Instructions
 
+Keymap is in the config folder, the one in boards isnt used.
+mod2 and / unlocks zmk studio
+
 ### Brand new to ZMK?
 
 1. You will need to [sign up for a GitHub account](https://github.com/signup), and [fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) so you can edit it.
